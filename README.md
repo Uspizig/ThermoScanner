@@ -1,4 +1,4 @@
-# SenseLoRaCAMSpeaker: The Programmable Addon Board for Xiao Sense S3 for LoRa and Audio
+# ThermoScanner: The Programmable Scanner for your K-Type Thermo Sensors with Display and Audio
 
 
 <p align="center">
