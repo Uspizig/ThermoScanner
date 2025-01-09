@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./Hardware/Screenshots/RoundDisplay.png" width="600" height="400"/>
+<img src="./Hardware/Screenshots/RoundDisplay.png" width="800" height="400"/>
 </p>
 
 
@@ -30,7 +30,7 @@
 10. **Jog Dial** for operating the Device
 
 <p align="center">
-<img src="./Hardware/Screenshots/SDCardThermo.png" width="600" height="400"/>
+<img src="./Hardware/Screenshots/SDCardThermo.png" width="800" height="400"/>
 </p>
 
 9. **RGB LED**: Status LED
@@ -38,11 +38,11 @@
 
 
 <p align="center">
-<img src="./Hardware/Screenshots/Front.jpg" width="600" height="400"/>
+<img src="./Hardware/Screenshots/Front.jpg" width="800" height="400"/>
 </p>
 
 <p align="center">
-<img src="./Hardware/Screenshots/esp32BME280.png" width="600" height="400"/>
+<img src="./Hardware/Screenshots/esp32BME280.png" width="800" height="400"/>
 </p>
 
 
@@ -55,7 +55,7 @@
 
 2. Eink Display for Power Saving
 <p align="center">
-<img src="./Hardware/Screenshots/EINK.png" width="600" height="400"/>
+<img src="./Hardware/Screenshots/EINK.png" width="800" height="400"/>
 </p>
 
 
