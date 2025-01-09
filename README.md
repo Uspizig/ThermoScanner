@@ -38,7 +38,7 @@
 
 
 <p align="center">
-<img src="./Hardware/Screenshots/Front.png" width="600" height="400"/>
+<img src="./Hardware/Screenshots/Front.jpg" width="600" height="400"/>
 </p>
 
 <p align="center">
